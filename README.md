@@ -16,4 +16,9 @@
   </a>
 </p>
 
+<p align="center">
+<a href="https://wakatime.com/@98aefc49-865a-4dba-91c8-f87d5b880449"><img src="https://wakatime.com/badge/user/98aefc49-865a-4dba-91c8-f87d5b880449.svg" alt="Total time coded since Dec 9 2022" /></a>
+</p>
+
+
 
