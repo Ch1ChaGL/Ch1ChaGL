@@ -2,6 +2,7 @@
 <a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ch1ChaGL&theme=radical" alt="GitHub Streak" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch1ChaGL)](https://github.com/anuraghazra/github-readme-stats)
 [![codewars](https://www.codewars.com/users/Ch1ChaGL/badges/large)](https://www.codewars.com/users/Ch1ChaGL) 
+![](https://komarev.com/ghpvc/?username=Ch1ChaGL)
 <!--
 **Ch1ChaGL/Ch1ChaGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
