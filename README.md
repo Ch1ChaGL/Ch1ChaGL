@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=F7AAD2&random=false&width=435&lines=Hi%2C+my+name+is%2C+what%3F+;My+name+is%2C+who%3F;+My+name+is%2C+chka-chka%2C+Ch1ChaGL)](https://git.io/typing-svg)
 <a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ch1ChaGL&theme=radical" alt="GitHub Streak" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch1ChaGL)](https://github.com/anuraghazra/github-readme-stats)
-[![codewars](https://www.codewars.com/users/username/badges/large)]([https://www.codewars.com/users/Ch1ChaGL](https://www.codewars.com/users/Ch1ChaGL/badges/large
-)) 
+[![codewars](https://www.codewars.com/users/Ch1ChaGL/badges/large)](https://www.codewars.com/users/Ch1ChaGL) 
 <!--
 **Ch1ChaGL/Ch1ChaGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
