@@ -7,10 +7,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ch1ChaGL&theme=algolia&utcOffset=8)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ch1ChaGL" alt="Top Languages" />
-</p>
-
-<p align="center">
   <a href="https://www.codewars.com/users/Ch1ChaGL">
     <img src="https://www.codewars.com/users/Ch1ChaGL/badges/large" alt="Codewars Badges" />
   </a>
