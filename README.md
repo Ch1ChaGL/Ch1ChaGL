@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ch1ChaGL&theme=radical" alt="GitHub Streak" />
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ch1ChaGL)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </p>
 
